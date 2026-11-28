@@ -19,4 +19,4 @@ By inviting or using **Rai** ("the Bot") on Discord, you agree to these Terms of
 * We reserve the right to block any user or server from accessing the Bot if these terms are violated or if the Bot is abused.
 
 ## 5. Contact
-If you have questions about these Terms, please contact us via **[Contact the Developer on Discord](https://discord.com/users/1556682310705877077)**.
+If you have questions about these Terms, please contact us via **[The Developer on Discord](https://discord.com/users/1556682310705877077)**.
